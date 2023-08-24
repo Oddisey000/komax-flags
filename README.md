@@ -8,8 +8,8 @@ This app is currently works:
 - at the Leoni plant in Kraljevo, Serbia
 - the launch is being prepared at the Leoni Merida2 plant in Mexico
 
-![App main image](https://files.fm/thumb_show.php?i=kjgrg26fk)
-![App main image](https://files.fm/thumb_show.php?i=kwgqhebcd)
-![App main image](https://files.fm/thumb_show.php?i=uzaajac6h)
+<img src="./screenshots/komax-flags-komax_picture_desc.jpg">
+<img src="./screenshots/komax-flags-stats_picture_desc.jpg">
+<img src="./screenshots/komax-flags-main_picture_desc.jpg">
 
 This repository contaign only compiled version of the app, please contact me if you like to get the source code
